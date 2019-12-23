@@ -1,0 +1,11 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+    {
+      "appID": "GH36V55TPK.prothelisTurkey.TrackingApp",
+      "paths": ["*"]
+    }
+    ]
+  }
+}
